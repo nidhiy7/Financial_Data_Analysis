@@ -1,7 +1,2 @@
-# Bank Loan Report Project
-
-## This project combines SQL for data manipulation and Power BI for visualization to generate a concise and
-        informative report on bank loan data. The goal is to offer stakeholders actionable insights into loan
-        applications, approvals, and relevant metrics.
-
-
+## BankLoanReportProject
+### This project seamlessly merges SQL for data manipulation and Power BI for visualization, creating a robust report on bank loan data. The report is designed to deliver concise and actionable insights into loan applications, approvals, and key metrics.
